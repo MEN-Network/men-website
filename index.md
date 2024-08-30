@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "MRZZJ Experiment Network"
-  text: "An Experimental Network"
-  tagline: My great project tagline
+  name: "MEN"
+  text: "MRZZJ Experiment Network"
+  tagline: An Experimental Network
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /docs/get-start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: White Paper
+      link: /wp/introduction
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Always Creative
+    details:
+    icon: 🤓
+  - title: Maybe not fast
+    details: 
+    icon: 🐢
+  - title: 0% SLA
+    details: 
+    icon: ☹️
 ---
 
